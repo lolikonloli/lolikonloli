@@ -1,2 +1,6 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lolikonloli&count_private=true&card_width=400px&line_height=28)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolikonloli&hide=qml,javascript,html,css,qmake,assembly,cmake&layout=compact&langs_count=10)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lolikonloli&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lolikonloli&theme=vue&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lolikonloli&theme=vue&exclude=HTML)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lolikonloli&theme=vue&exclude=HTML)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lolikonloli&theme=vue)
